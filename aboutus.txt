@@ -1,0 +1,8 @@
+
+<<<<<<< HEAD
+This is about us on master
+this is done on cloud
+On master
+=======
+This is about us on act2
+>>>>>>> act2
